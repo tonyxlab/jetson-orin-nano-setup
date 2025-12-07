@@ -1,6 +1,6 @@
 # Jetson Orin Nano Setup
 ![maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
-![last-update](https://img.shields.io/badge/updated-2025--01--15-blue)
+![last-update](https://img.shields.io/badge/updated-2025--12--07-blue)
 ![platform](https://img.shields.io/badge/platform-Jetson%20Orin%20Nano-orange)
 
 This repository documents my personal setup process for the Jetson Orin Nano — including OS installation, package configuration, CUDA/cuDNN environments, AI frameworks, optimization tools, troubleshooting logs, and performance notes.
